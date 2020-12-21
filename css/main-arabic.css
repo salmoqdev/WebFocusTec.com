@@ -501,10 +501,10 @@ input[type = button] {
 }
 
 /* The email icon in footer area */
-.col2 img {
+/* .col2 img {
   display: inline-block;
   background: var(--clr-dark-yellow);
-}
+} */
 
 .col1 span,
 .col2 span {
