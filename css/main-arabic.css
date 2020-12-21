@@ -495,7 +495,9 @@ input[type = button] {
 }
 
 .footer-icons {
-  background-color: var(--clr-black);
+  /* background-color: var(--clr-black); */
+  display: inline-block;
+  width: 8%;
 }
 
 /* The email icon in footer area */
